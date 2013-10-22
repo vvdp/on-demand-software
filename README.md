@@ -3,7 +3,7 @@ On Demand Software Delivery Using Jenkins [SISCD3]
 
 This is the source project for use in the Simplicity Itself course "On Demand Software Delivery using Jenkins"
 
-## prasad day to ws_F_main release
+## prasad 2nd day training to ws_F_main release
 ##
 
 ## Agenda
